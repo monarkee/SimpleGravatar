@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "name": "euantor/simple-gravatar",
     "require": {
-        "illuminate/support": "4.0.x",
-        "php": ">=5.3.0"
+        "illuminate/support": "4.1.x",
+        "php": ">=5.4.0"
     }
 }
